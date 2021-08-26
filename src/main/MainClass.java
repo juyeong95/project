@@ -7,7 +7,7 @@ public class MainClass {
 		Scanner input = new Scanner(System.in);
 		int num;
 		while(true) {
-			System.out.println("1.ÀÌÁÖ¿µ´Ô 2.¼º±â·æ´Ô 3.¼³ÁöÈñ´Ô 4.¼­±¤ÈÆ´Ô 5.¼Û¿µ°ü´Ô");
+			System.out.println("1.ì´ì£¼ì˜ë‹˜ 2.ì„±ê¸°ë£¡ë‹˜ 3.ì„¤ì§€í¬ë‹˜ 4.ì„œê´‘í›ˆë‹˜ 5.ì†¡ì˜ê´€ë‹˜");
 			num=input.nextInt();
 			switch(num) {
 			case 1: break;
